@@ -7,7 +7,7 @@ import org.howard.edu.lsp.assingment5.IntegerSetException;
  * A total of seven array lists were defined, and all methods from the 
  * IntegerSet class were performed on these array lists.
  */
-public class Driver {
+public class TestFile {
 /**
 * Main method, where all seven array lists are defined.
 * All methods from the IntegerSet class are called here.
